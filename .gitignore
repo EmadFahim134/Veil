@@ -16,4 +16,4 @@ wheels/
 outputs/
 *.safetensors
 *.gguf
-*.bin
+*.data/cache
